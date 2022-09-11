@@ -19,11 +19,11 @@ turn red when motion is detected (e.g 10 seconds).
 
 ![ManualCapture3](https://user-images.githubusercontent.com/93422550/139554342-11f9c42d-5a34-4316-be98-5fb3a2dd971c.png)
 
-When the model detects motion inside the ROI automatic motion capture will trigger and save it via local storage and a desktop alert will send to the main server(in our case for testing we used laptop), Also autorecord of footage will trigger once the system is opened.
+When the model detects motion inside the ROI automatic motion capture will trigger and save it via local storage and a desktop alert (python script) will send to the main server(in our case for testing we used laptop), Also autorecord of footage will trigger once the system is opened.
 
 ![Screenshot (32)](https://user-images.githubusercontent.com/93422550/139555929-ee1a9897-bf5c-439d-b849-fff8fe3420e3.png)
 
-User also can use manual screenshot function fo the system for gathering evidence that will directly save also to the local storage and send the photo to "telegram application" (mobile/PC) this can solve the problem of printing solid copy evidence and improve their efficiency and effectiveness in monitoring real-time.
+User also can use manual screenshot function fo the system for gathering evidence that will directly save also to the local storage and send the photo to "telegram application" (mobile/PC) (python and telegram bot) this can solve the problem of printing solid copy evidence and improve their efficiency and effectiveness in monitoring real-time.
 
 ![242940177_616341949729960_4038457934568155221_n](https://user-images.githubusercontent.com/93422550/139556008-44781c73-cfbb-41ad-a4df-8b9dd2b512be.jpg)
 
