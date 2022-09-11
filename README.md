@@ -1,4 +1,4 @@
-# RIPD
+# RIPD (Thesis Study Project) 
 Real time illegal parking CCTV monitoring assist the barangay personnel in improving the roads in the area. Also, drivers should be thought not to park anywhere they want, because most people who parked anywhere cause accidents in the area due to obstructed vehicles. for more detailed explanation see our documentation. for documentation kindly communicate me using this github repo, I will try my best to give some response.
 
 # OBJECTIVE
@@ -73,4 +73,5 @@ User also can use manual screenshot function fo the system for gathering evidenc
   * Wifi Router (Need to have same connection, Server and IPC to work RTSP / ONVIF)
   * Telegram Application for receiving additonal alerts and manual captured photos.
 
+this project is created for university purposes (thesis study project). all of the programs use have references from internet, youtube, stackoverflow, google, github etc and not owned by me. kindly check references.md too. "im not a full stack dev." "pull stack dev" rather.
 
