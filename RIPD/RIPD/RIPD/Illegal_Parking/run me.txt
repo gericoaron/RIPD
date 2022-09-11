@@ -1,0 +1,2 @@
+#for testing using external videos .mp4 format
+python main.py --image images/parking_lot_2.png --data data/coordinates_1.yml --video videos/parking_lot_2.mp4 --start-frame 1
